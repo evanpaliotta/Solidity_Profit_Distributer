@@ -24,6 +24,6 @@ contract AssociateProfitSplitter {
     }
 
     function() external payable {
-        
+        deposit();  
     }
 }
